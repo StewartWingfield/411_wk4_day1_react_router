@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.8e4de9ae.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.a7926495.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.a7926495.chunk.js.map",
-    "runtime~main.js": "/react-gh-pages/static/js/runtime~main.2b343ed3.js",
-    "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.2b343ed3.js.map",
-    "static/js/2.cb4bfd8b.chunk.js": "/react-gh-pages/static/js/2.cb4bfd8b.chunk.js",
-    "static/js/2.cb4bfd8b.chunk.js.map": "/react-gh-pages/static/js/2.cb4bfd8b.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.a8ae87f13cd5f5d0ddd55c43c0e8deeb.js": "/react-gh-pages/precache-manifest.a8ae87f13cd5f5d0ddd55c43c0e8deeb.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.8e4de9ae.chunk.css.map": "/react-gh-pages/static/css/main.8e4de9ae.chunk.css.map"
+    "main.css": "/411_wk4_day1_react_router/static/css/main.8e4de9ae.chunk.css",
+    "main.js": "/411_wk4_day1_react_router/static/js/main.6b49fb08.chunk.js",
+    "main.js.map": "/411_wk4_day1_react_router/static/js/main.6b49fb08.chunk.js.map",
+    "runtime~main.js": "/411_wk4_day1_react_router/static/js/runtime~main.0c971c59.js",
+    "runtime~main.js.map": "/411_wk4_day1_react_router/static/js/runtime~main.0c971c59.js.map",
+    "static/js/2.cb4bfd8b.chunk.js": "/411_wk4_day1_react_router/static/js/2.cb4bfd8b.chunk.js",
+    "static/js/2.cb4bfd8b.chunk.js.map": "/411_wk4_day1_react_router/static/js/2.cb4bfd8b.chunk.js.map",
+    "index.html": "/411_wk4_day1_react_router/index.html",
+    "precache-manifest.972fbd88ae307100ac011c68c50d55b6.js": "/411_wk4_day1_react_router/precache-manifest.972fbd88ae307100ac011c68c50d55b6.js",
+    "service-worker.js": "/411_wk4_day1_react_router/service-worker.js",
+    "static/css/main.8e4de9ae.chunk.css.map": "/411_wk4_day1_react_router/static/css/main.8e4de9ae.chunk.css.map"
   }
 }
